@@ -58,3 +58,10 @@ Contributions are highly encouraged! If you have additional datasets that you be
 2. Add your dataset in the appropriate folder.
 3. Create a pull request with a clear description of your addition.
 All contributions must be in `.xlsx` format and should include an explanation of the data content.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Happy Analyzing! 📈
+```bash
+Replace `[Tisya Melinda Shafira (157)]`, `[Fadhil Rahman (198)]`, etc., with the actual names and roles of your team members. Let me know if you'd like further edits!
