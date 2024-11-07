@@ -1,6 +1,10 @@
 # Dataset-Narkotika_157_198
 This repository contains a valuable collection of structured Excel datasets focused on various topics, including detailed case data related to narcotics handled by the Makassar District Court. Designed for data scientists, researchers, and analysts, this repository serves as a reliable source for exploring judicial data, understanding trends in case outcomes, and supporting policy development. Each dataset is provided in .xlsx format for seamless integration into your analysis and machine-learning workflows.
 
+# Team Members
+1. Tisya Melinda Shafira - 202110370311157
+2. Fadhil Rahman - 202110370311198
+
 # Excel Dataset Collection 📊
 
 Welcome to the **Excel Dataset Collection** repository! Here, you’ll find a selection of meticulously curated Excel files, ideal for various data analysis and machine learning applications. This collection is designed for ease of use and readability, making it perfect for both beginners and professionals in the data field.
