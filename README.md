@@ -37,3 +37,24 @@ To get started with the datasets in this repository, make sure you have a tool c
 1. Clone the repository:
    ```bash
    git clone https://github.com/rubygurlexe/Dataset-Narkotika_157_198.git
+   
+2. Navigate to the repository folder:
+   ```bash
+   cd Dataset-Narkotika_157_198
+
+3. Open the `.xlsx` files with your preferred software.
+
+### How to Use the Data
+Each dataset comes with clearly labeled columns and organized data. Users can:
+
+- Analyze trends and patterns within each dataset.
+- Visualize data insights using tools like Python’s `matplotlib` or `Tableau`.
+- Develop predictive models with machine learning libraries such as `scikit-learn` or `TensorFlow`.
+
+## Contributing
+Contributions are highly encouraged! If you have additional datasets that you believe would be valuable to this collection, please:
+
+1. Fork this repository.
+2. Add your dataset in the appropriate folder.
+3. Create a pull request with a clear description of your addition.
+All contributions must be in `.xlsx` format and should include an explanation of the data content.
