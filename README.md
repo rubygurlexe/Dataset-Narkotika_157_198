@@ -1,5 +1,5 @@
 # Dataset-Narkotika_157_198
-This repository contains a valuable collection of structured Excel datasets. The primary focus is to provide accessible, clean, and well-organized datasets that cater to various use cases, such as data analysis, machine learning, and educational purposes. Whether you're a data scientist, analyst, or enthusiast.
+This repository contains a valuable collection of structured Excel datasets focused on various topics, including detailed case data related to narcotics handled by the Makassar District Court. Designed for data scientists, researchers, and analysts, this repository serves as a reliable source for exploring judicial data, understanding trends in case outcomes, and supporting policy development. Each dataset is provided in .xlsx format for seamless integration into your analysis and machine-learning workflows.
 
 # Excel Dataset Collection 📊
 
@@ -7,7 +7,7 @@ Welcome to the **Excel Dataset Collection** repository! Here, you’ll find a se
 
 ## Overview
 
-This repository hosts datasets related to a range of topics. Our goal is to offer reliable, well-structured datasets for learning, research, and project development purposes. Each dataset is provided in `.xlsx` format, ensuring compatibility across a wide variety of tools and platforms.
+This repository hosts datasets related to a range of topics, with a particular emphasis on judicial data concerning narcotics cases from the Makassar District Court. Our goal is to offer reliable, well-structured datasets for learning, research, and project development purposes. Each dataset is provided in `.xlsx` format, ensuring compatibility across a wide variety of tools and platforms.
 
 ## Datasets Included
 
@@ -16,10 +16,10 @@ This repository hosts datasets related to a range of topics. Our goal is to offe
    - Description: Provides a comprehensive look at [provide a high-level summary of data it covers, e.g., "general statistics on global population trends"].
    - Potential Use Cases: Statistical analysis, trend forecasting, and educational references.
 
-2. **Narkotika Dataset**
+2. **Narkotika Dataset - Court Cases**
    - Filename: `Narkotika.zip`
-   - Description: Contains specific data focused on [a brief description of the content within the Narkotika dataset, e.g., "patterns and statistics regarding narcotic use and prevention methods"].
-   - Potential Use Cases: Research on social issues, data-driven policy recommendations, and in-depth analytics for public health studies.
+   - Description: Contains data on narcotics-related court cases from the Makassar District Court, covering case details, sentencing patterns, and judicial decisions. This dataset is ideal for understanding judicial outcomes and trends in narcotics cases, offering valuable insights for criminology, policy analysis, and public health studies.
+   - Potential Use Cases: Legal and criminology research, policy analysis, public health studies, and sociological investigations.
 
 ## Getting Started
 
@@ -31,3 +31,9 @@ To get started with the datasets in this repository, make sure you have a tool c
 - **Google Sheets**
 - **LibreOffice Calc**
 - **Python (with pandas)**
+
+### Downloading
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rubygurlexe/Dataset-Narkotika_157_198.git
